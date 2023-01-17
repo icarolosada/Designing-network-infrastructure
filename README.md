@@ -7,7 +7,7 @@ Its an interesting problem demonstrating the concepts of **Classless IP Subnetti
 
 
 ## Network Planning and Design
-![a](../master/network-screenshot.PNG)
+![a](./master/network-screenshot.PNG)
 
 
 ## Problem Statement
