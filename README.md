@@ -1,5 +1,5 @@
 # 🖧 Designing network infrastructure 
-
+![](https://komarev.com/ghpvc/?username=icarolosada&style=flat-square)
 
 I designed this **network configuration for the network **, given some constraints. This problem was presented in our  Computer Networks Lab (CL307) Final. The main role was to **subnet the IP addresses** correctly.
 
